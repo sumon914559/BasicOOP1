@@ -1,0 +1,16 @@
+C:\Users\r041604014\source\repos\UniversityApplication\bin\Debug\net5.0\UniversityApplication.exe
+C:\Users\r041604014\source\repos\UniversityApplication\bin\Debug\net5.0\UniversityApplication.deps.json
+C:\Users\r041604014\source\repos\UniversityApplication\bin\Debug\net5.0\UniversityApplication.runtimeconfig.json
+C:\Users\r041604014\source\repos\UniversityApplication\bin\Debug\net5.0\UniversityApplication.runtimeconfig.dev.json
+C:\Users\r041604014\source\repos\UniversityApplication\bin\Debug\net5.0\UniversityApplication.dll
+C:\Users\r041604014\source\repos\UniversityApplication\bin\Debug\net5.0\ref\UniversityApplication.dll
+C:\Users\r041604014\source\repos\UniversityApplication\bin\Debug\net5.0\UniversityApplication.pdb
+C:\Users\r041604014\source\repos\UniversityApplication\obj\Debug\net5.0\UniversityApplication.csproj.AssemblyReference.cache
+C:\Users\r041604014\source\repos\UniversityApplication\obj\Debug\net5.0\UniversityApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\r041604014\source\repos\UniversityApplication\obj\Debug\net5.0\UniversityApplication.AssemblyInfoInputs.cache
+C:\Users\r041604014\source\repos\UniversityApplication\obj\Debug\net5.0\UniversityApplication.AssemblyInfo.cs
+C:\Users\r041604014\source\repos\UniversityApplication\obj\Debug\net5.0\UniversityApplication.csproj.CoreCompileInputs.cache
+C:\Users\r041604014\source\repos\UniversityApplication\obj\Debug\net5.0\UniversityApplication.dll
+C:\Users\r041604014\source\repos\UniversityApplication\obj\Debug\net5.0\ref\UniversityApplication.dll
+C:\Users\r041604014\source\repos\UniversityApplication\obj\Debug\net5.0\UniversityApplication.pdb
+C:\Users\r041604014\source\repos\UniversityApplication\obj\Debug\net5.0\UniversityApplication.genruntimeconfig.cache
